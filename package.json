@@ -1,7 +1,13 @@
 {
-  "name": "ihaehada",
+  "name": "nft-website",
+  "description": "nft frontend",
   "version": "0.1.0",
   "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cryptobaddies/nft-website.git"
+},
+"author": "Molly Beach",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
