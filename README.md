@@ -1,3 +1,5 @@
+#cryptbaddiesnftwebsite
+https://cryptobaddiesnfts.web.app/
 ## Purpose
 
 This is a start-up kit for a Firebase web project, which uses Vue.js.
@@ -44,4 +46,5 @@ Your app is ready to be deployed!
 
 Deploys the app to the Firebase cloud. You need to run "npm run build" before the deployment.
 
-# ihaehada
+# cryptobaddies
+
