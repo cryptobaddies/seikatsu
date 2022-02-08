@@ -13,7 +13,7 @@ export default {
     let uiConfig = {
       signInOptions: [
         firebase.auth.EmailAuthProvider.PROVIDER_ID,
-        // firebase.auth.GoogleAuthProvider.PROVIDER_ID
+        // firebase.auth.GoogleAuthProvider.PROVIDER_IDj
       ],
       callbacks: {
         signInSuccessWithAuthResult() {

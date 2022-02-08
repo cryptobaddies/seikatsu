@@ -1,12 +1,12 @@
 import Vue from 'vue'
 import VueRouter from 'vue-router'
 
-import Top from '@/views/Top'
-import Hello from '@/views/Hello'
-import Protected from '@/views/Protected'
+import Home from '@/components/Home'
+import Hello from '@/components/Hello'
+import Protected from '@/components/Protected'
 import Message from '@/components/Message'
 import Signin from '@/components/Signin'
-import Signout from '@/views/Signout'
+import Signout from '@/components/Signout'
 
 Vue.use(VueRouter)
 
@@ -17,7 +17,7 @@ const router = new VueRouter({
     {
       path: '/',
       name: 'index',
-      component: Top,
+      component: Home,
     },
     {
       path: '/Signout',
