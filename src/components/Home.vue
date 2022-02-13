@@ -1,6 +1,6 @@
 <template>
 <!-- create a nav bar for nft website in vue with links to: Twitter Discord 
-Etherscan Opensea, Home Rdaffle, Bridge Game, Stake Docs -->
+Etherscan Opensea, Home Rdfaffle, Bridge Game, Stake Docs -->
 
 
 
