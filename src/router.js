@@ -1,12 +1,13 @@
 import Vue from 'vue'
 import VueRouter from 'vue-router'
-
-import Home from '@/components/Home'
-import Hello from '@/components/Hello'
-import Protected from '@/components/Protected'
+import Home from '@/views/Home'
+import Gallery from '@/views/Gallery'
+import Miners from '@/views/Miners'
+import Protected from '@/views/Protected'
 import Message from '@/components/Message'
-import Signin from '@/components/Signin'
-import Signout from '@/components/Signout'
+import Signin from '@/views/Signin'
+import Signout from '@/views/Signout'
+import About from '@/views/About'
 
 Vue.use(VueRouter)
 
@@ -16,8 +17,18 @@ const router = new VueRouter({
   routes: [
     {
       path: '/',
-      name: 'index',
+      name: 'home',
       component: Home,
+    },
+    {
+      path: '/Gallery',
+      name: 'gallery',
+      component: Gallery,
+    },
+    {
+      path: '/Miners',
+      name: 'miners',
+      component: Miners,
     },
     {
       path: '/Signout',
@@ -30,11 +41,6 @@ const router = new VueRouter({
       component: Signin,
     },
     {
-      path: '/Hello',
-      name: 'hello',
-      component: Hello,
-    },
-    {
       path: '/Message',
       name: 'message',
       component: Message,
@@ -43,7 +49,14 @@ const router = new VueRouter({
       path: '/Protected',
       name: 'protected',
       component: Protected,
-    }
+    },
+    {
+      path: '/About',
+      name: 'about',
+      component: About,
+    },
+
+
   ]
 })
 
