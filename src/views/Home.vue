@@ -151,7 +151,7 @@
                         ><div class="parallax" dark="">
                             <div class="parallax__image-container">
                                 <img
-                                    src="https://www.cryptoarte.io/static/images/home/header.jpg"
+                                    src="https://www.CryptoArte.io/static/images/home/header.jpg"
                                     class="parallax__image"
                                     style="display: block; opacity: 1"
                                 />
@@ -320,7 +320,7 @@
                                                     The CryptoArte collection is
                                                     sold out. Check out
                                                     <a
-                                                        href="https://opensea.io/collection/cryptoarte"
+                                                        href="https://opensea.io/collection/CryptoArte"
                                                         target="_blank"
                                                         >paintings available for
                                                         purchase at OpenSea</a
@@ -462,7 +462,7 @@
                                                             class="flex xs12 sm6 md4 lg4 xl4"
                                                         >
                                                             <a
-                                                                href="https://www.cryptoarte.io/paintings/0"
+                                                                href="https://www.CryptoArte.io/paintings/0"
                                                                 class="ma-2 pa-3 pt-0 card card--hover"
                                                                 style="
                                                                     height: auto;
@@ -517,7 +517,7 @@
                                                             class="flex xs12 sm6 md4 lg4 xl4"
                                                         >
                                                             <a
-                                                                href="https://www.cryptoarte.io/paintings/1"
+                                                                href="https://www.CryptoArte.io/paintings/1"
                                                                 class="ma-2 pa-3 pt-0 card card--hover"
                                                                 style="
                                                                     height: auto;
@@ -572,7 +572,7 @@
                                                             class="flex xs12 sm6 md4 lg4 xl4"
                                                         >
                                                             <a
-                                                                href="https://www.cryptoarte.io/paintings/2"
+                                                                href="https://www.CryptoArte.io/paintings/2"
                                                                 class="ma-2 pa-3 pt-0 card card--hover"
                                                                 style="
                                                                     height: auto;
@@ -627,7 +627,7 @@
                                                             class="flex xs12 sm6 md4 lg4 xl4"
                                                         >
                                                             <a
-                                                                href="https://www.cryptoarte.io/paintings/3"
+                                                                href="https://www.CryptoArte.io/paintings/3"
                                                                 class="ma-2 pa-3 pt-0 card card--hover"
                                                                 style="
                                                                     height: auto;
@@ -682,7 +682,7 @@
                                                             class="flex xs12 sm6 md4 lg4 xl4"
                                                         >
                                                             <a
-                                                                href="https://www.cryptoarte.io/paintings/4"
+                                                                href="https://www.CryptoArte.io/paintings/4"
                                                                 class="ma-2 pa-3 pt-0 card card--hover"
                                                                 style="
                                                                     height: auto;
@@ -737,7 +737,7 @@
                                                             class="flex xs12 sm6 md4 lg4 xl4"
                                                         >
                                                             <a
-                                                                href="https://www.cryptoarte.io/paintings/5"
+                                                                href="https://www.CryptoArte.io/paintings/5"
                                                                 class="ma-2 pa-3 pt-0 card card--hover"
                                                                 style="
                                                                     height: auto;
@@ -924,7 +924,7 @@
                                                             class="flex xs12 sm6 md4 lg4 xl4"
                                                         >
                                                             <a
-                                                                href="https://www.cryptoarte.io/paintings/9889"
+                                                                href="https://www.CryptoArte.io/paintings/9889"
                                                                 class="ma-2 pa-3 pt-0 card card--hover"
                                                                 style="
                                                                     height: auto;
@@ -980,7 +980,7 @@
                                                             class="flex xs12 sm6 md4 lg4 xl4"
                                                         >
                                                             <a
-                                                                href="https://www.cryptoarte.io/paintings/9890"
+                                                                href="https://www.CryptoArte.io/paintings/9890"
                                                                 class="ma-2 pa-3 pt-0 card card--hover"
                                                                 style="
                                                                     height: auto;
@@ -1033,7 +1033,7 @@
                                                             class="flex xs12 sm6 md4 lg4 xl4"
                                                         >
                                                             <a
-                                                                href="https://www.cryptoarte.io/paintings/9891"
+                                                                href="https://www.CryptoArte.io/paintings/9891"
                                                                 class="ma-2 pa-3 pt-0 card card--hover"
                                                                 style="
                                                                     height: auto;
@@ -1089,7 +1089,7 @@
                                                             class="flex xs12 sm6 md4 lg4 xl4"
                                                         >
                                                             <a
-                                                                href="https://www.cryptoarte.io/paintings/9892"
+                                                                href="https://www.CryptoArte.io/paintings/9892"
                                                                 class="ma-2 pa-3 pt-0 card card--hover"
                                                                 style="
                                                                     height: auto;
@@ -1145,7 +1145,7 @@
                                                             class="flex xs12 sm6 md4 lg4 xl4"
                                                         >
                                                             <a
-                                                                href="https://www.cryptoarte.io/paintings/9893"
+                                                                href="https://www.CryptoArte.io/paintings/9893"
                                                                 class="ma-2 pa-3 pt-0 card card--hover"
                                                                 style="
                                                                     height: auto;
@@ -1201,7 +1201,7 @@
                                                             class="flex xs12 sm6 md4 lg4 xl4"
                                                         >
                                                             <a
-                                                                href="https://www.cryptoarte.io/paintings/9894"
+                                                                href="https://www.CryptoArte.io/paintings/9894"
                                                                 class="ma-2 pa-3 pt-0 card card--hover"
                                                                 style="
                                                                     height: auto;
@@ -1270,7 +1270,7 @@
                         >
                             <div class="card__text">
                                 <a
-                                    href="https://twitter.com/cryptoarte"
+                                    href="https://twitter.com/CryptoArte"
                                     target="_blank"
                                     class="mx-3 white--text btn btn--icon"
                                     ><div class="btn__content">
@@ -1294,7 +1294,7 @@
                                 ></a>
                                 <span
                                     ><a
-                                        href="mailto:hello@cryptoarte.io"
+                                        href="mailto:hello@CryptoArte.io"
                                         target="_blank"
                                         class="mx-3 white--text btn btn--icon"
                                         ><div class="btn__content">

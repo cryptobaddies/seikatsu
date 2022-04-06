@@ -64,7 +64,7 @@
       <v-toolbar-items class="hidden-sm-and-down">
         <v-btn flat ><router-link to="/">Home</router-link></v-btn>
         <v-btn flat><router-link to="/Gallery">Gallery</router-link></v-btn>
-        <v-btn flat><router-link to="/Miners">Miners</router-link></v-btn>
+        <v-btn flat><router-link to="/Signout">Miners</router-link></v-btn>
         <v-btn flat><router-link to="/Protected">About</router-link></v-btn>
 
       </v-toolbar-items>
