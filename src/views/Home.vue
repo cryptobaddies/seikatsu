@@ -5,7 +5,7 @@
                 <div class="parallax" dark="">
                             <div class="parallax__image-container">
                                 <img
-                                    src="https://www.CryptoArte.io/static/images/home/header.jpg"
+                                    src="https://res.cloudinary.com/storagemanagementcontainer/image/upload/c_scale,h_500,w_1500/v1649549249/nft/animeskatergirl_hgv1a4.png"
                                     class="parallax__image"
                                     style="display: block; opacity: 1"
                                 />
@@ -19,18 +19,18 @@
                                             ></div>
                                             <div class="jumbotron__content">
                                                 <div
-                                                    class="layout lighten-1 home-transparent row ma-2 white"
+                                                    class="layout lighten-1 home-transparent row ma-2 blue-light-background "
                                                 >
                                                     <div
                                                         class="flex text-xs-center xs12"
                                                     >
-                                                        <h1 class="ma-3">
-                                                            CryptoArte — an NFT
+                                                        <h1 class="ma-3" style="color: white">
+                                                            Seikatsu— an NFT
                                                             art collection that
                                                             tells the history of
                                                             Ethereum.
                                                             <br />
-                                                            ~ Established 2018 ~
+                                                            ~ Established 2022 ~
                                                         </h1>
                                                     </div>
                                                 </div>
@@ -44,9 +44,11 @@
                                                             class="tooltip tooltip--bottom"
                                                             ><span
                                                                 ><div
-                                                                    class="lighten-1 home-transparent px-2 py-2 card card--flat"
+                                                                    class="lighten-1 home-transparent px-2 py-2 card card--flat "
                                                                     style="
                                                                         height: 100%;
+                                                                        border-radius: 16px;
+                                                                        
                                                                     "
                                                                 >
                                                                     <h2
@@ -54,7 +56,7 @@
                                                                     >
                                                                         <i
                                                                             aria-hidden="true"
-                                                                            class="icon teal--text text--lighten-1 material-icons"
+                                                                            class="icon cyanBlue--text text--lighten-1 material-icons"
                                                                             style="
                                                                                 font-size: 36px;
                                                                             "
@@ -74,9 +76,10 @@
                                                             class="tooltip tooltip--bottom"
                                                             ><span
                                                                 ><div
-                                                                    class="lighten-1 home-transparent px-2 py-2 card card--flat"
+                                                                    class="lighten-1 home-transparent px-2 py-2 card card--flat "
                                                                     style="
                                                                         height: 100%;
+                                                                        border-radius: 16px;
                                                                     "
                                                                 >
                                                                     <h2
@@ -84,7 +87,7 @@
                                                                     >
                                                                         <i
                                                                             aria-hidden="true"
-                                                                            class="icon teal--text text--lighten-1 material-icons"
+                                                                            class="icon cyanBlue--text text--lighten-1 material-icons"
                                                                             style="
                                                                                 font-size: 36px;
                                                                             "
@@ -107,6 +110,7 @@
                                                                     class="lighten-1 home-transparent px-2 py-2 card card--flat"
                                                                     style="
                                                                         height: 100%;
+                                                                        border-radius: 16px;
                                                                     "
                                                                 >
                                                                     <h2
@@ -114,9 +118,10 @@
                                                                     >
                                                                         <i
                                                                             aria-hidden="true"
-                                                                            class="icon teal--text text--lighten-1 material-icons"
+                                                                            class="icon cyanBlue--text text--lighten-1 material-icons"
                                                                             style="
                                                                                 font-size: 36px;
+                                                                                border-radius: 16px;
                                                                             "
                                                                             >photo</i
                                                                         >
@@ -137,6 +142,7 @@
                                                                     class="lighten-1 home-transparent px-2 py-2 card card--flat"
                                                                     style="
                                                                         height: 100%;
+                                                                        border-radius: 16px;
                                                                     "
                                                                 >
                                                                     <h2
@@ -144,7 +150,7 @@
                                                                     >
                                                                         <i
                                                                             aria-hidden="true"
-                                                                            class="icon teal--text text--lighten-1 material-icons"
+                                                                            class="icon cyanBlue--text text--lighten-1 material-icons"
                                                                             style="
                                                                                 font-size: 36px;
                                                                             "
@@ -171,7 +177,7 @@
                                         <div class="layout">
                                             <div class="flex pa-3">
                                                 <h3>
-                                                    The CryptoArte collection is
+                                                    The Seikatsu collection is
                                                     sold out. Check out
                                                     <a
                                                         href="https://opensea.io/collection/CryptoArte"
@@ -204,7 +210,7 @@
                                                         <button
                                                             disabled="disabled"
                                                             type="button"
-                                                            class="btn btn--disabled btn--floating btn--small theme--dark teal lighten-1"
+                                                            class="btn btn--disabled btn--floating btn--small theme--dark cyanBlue lighten-1"
                                                         >
                                                             <div
                                                                 class="btn__content"
@@ -218,7 +224,7 @@
                                                         <button
                                                             disabled="disabled"
                                                             type="button"
-                                                            class="btn btn--disabled btn--floating btn--small theme--dark teal lighten-1"
+                                                            class="btn btn--disabled btn--floating btn--small theme--dark cyanBlue lighten-1"
                                                         >
                                                             <div
                                                                 class="btn__content"
@@ -241,7 +247,7 @@
                                                         </div>
                                                         <button
                                                             type="button"
-                                                            class="btn btn--floating btn--small theme--dark teal lighten-1"
+                                                            class="btn btn--floating btn--small theme--dark cyanBlue lighten-1"
                                                             mt-4=""
                                                         >
                                                             <div
@@ -255,7 +261,7 @@
                                                         </button>
                                                         <button
                                                             type="button"
-                                                            class="btn btn--floating btn--small theme--dark teal lighten-1"
+                                                            class="btn btn--floating btn--small theme--dark cyanBlue lighten-1"
                                                             mt-4=""
                                                         >
                                                             <div
@@ -314,18 +320,25 @@
                                                     >
                                                         <div
                                                             class="flex xs12 sm6 md4 lg4 xl4"
+                                                            
                                                         >
                                                             <a
                                                                 href="https://www.CryptoArte.io/paintings/0"
                                                                 class="ma-2 pa-3 pt-0 card card--hover"
                                                                 style="
-                                                                    height: auto;
+                                                                    height: 550px;
+                                                                    font-family: disposabledroid-bb;
                                                                 "
                                                                 ><div
                                                                     class="card__text"
+                                                                    style="font-family: disposabledroid-bb;"
                                                                 >
                                                                     <h5
-                                                                        class="headline ma-0"
+                                                                        class="ma-0"
+                                                                        style="
+                                                                        font-family: disposabledroid-bb;
+                                                                        font-size: 36px
+                                                                        "
                                                                     >
                                                                         Painting
                                                                         #0
@@ -347,17 +360,15 @@
                                                                 <div
                                                                     class="card__media"
                                                                     style="
-                                                                        height: 216px;
+                                                                        height: 400px;
                                                                     "
                                                                 >
                                                                     <div
                                                                         class="card__media__background"
                                                                         style="
-                                                                            background: url('https://res.cloudinary.com/storagemanagementcontainer/image/upload/v1644348588/nft/purugly_loe5wh.png')
-                                                                                center
-                                                                                center /
-                                                                                contain
-                                                                                no-repeat;
+                                                                            background: url(https://res.cloudinary.com/storagemanagementcontainer/image/upload/c_scale,w_390/v1649551657/nft/seikatsu_small_zqq5xl.jpg)
+                                                                            no-repeat;
+                                                                            background-size: auto;
                                                                         "
                                                                     ></div>
                                                                     <div
@@ -378,7 +389,11 @@
                                                                     class="card__text"
                                                                 >
                                                                     <h5
-                                                                        class="headline ma-0"
+                                                                        class="ma-0"
+                                                                        style="
+                                                                        font-family: disposabledroid-bb;
+                                                                        font-size: 36px
+                                                                        "
                                                                     >
                                                                         Painting
                                                                         #1
@@ -400,17 +415,15 @@
                                                                 <div
                                                                     class="card__media"
                                                                     style="
-                                                                        height: 216px;
+                                                                        height: 400px;
                                                                     "
                                                                 >
                                                                     <div
                                                                         class="card__media__background"
                                                                         style="
-                                                                            background: url('https://storage.googleapis.com/pcarte/images/00000576-public.png')
-                                                                                center
-                                                                                center /
-                                                                                contain
-                                                                                no-repeat;
+                                                                            background: url(https://res.cloudinary.com/storagemanagementcontainer/image/upload/c_scale,w_416/v1649551999/nft/skater2_fzmvqf.png
+                                                                            no-repeat;
+                                                                            background-size: auto;
                                                                         "
                                                                     ></div>
                                                                     <div
@@ -431,7 +444,11 @@
                                                                     class="card__text"
                                                                 >
                                                                     <h5
-                                                                        class="headline ma-0"
+                                                                        class="ma-0"
+                                                                        style="
+                                                                        font-family: disposabledroid-bb;
+                                                                        font-size: 36px
+                                                                        "
                                                                     >
                                                                         Painting
                                                                         #2
@@ -452,13 +469,13 @@
                                                                 <div
                                                                     class="card__media"
                                                                     style="
-                                                                        height: 216px;
+                                                                        height: 400px;
                                                                     "
                                                                 >
                                                                     <div
                                                                         class="card__media__background"
                                                                         style="
-                                                                            background: url('https://storage.googleapis.com/pcarte/images/00001152-public.png')
+                                                                            background: url('https://res.cloudinary.com/storagemanagementcontainer/image/upload/c_scale,w_449/v1649552230/nft/skater3_fjyvsr.png')
                                                                                 center
                                                                                 center /
                                                                                 contain
@@ -483,7 +500,11 @@
                                                                     class="card__text"
                                                                 >
                                                                     <h5
-                                                                        class="headline ma-0"
+                                                                        class="ma-0"
+                                                                        style="
+                                                                        font-family: disposabledroid-bb;
+                                                                        font-size: 36px
+                                                                        "
                                                                     >
                                                                         Painting
                                                                         #3
@@ -505,17 +526,15 @@
                                                                 <div
                                                                     class="card__media"
                                                                     style="
-                                                                        height: 216px;
+                                                                        height: 400px;
                                                                     "
                                                                 >
                                                                     <div
                                                                         class="card__media__background"
                                                                         style="
-                                                                            background: url('https://res.cloudinary.com/storagemanagementcontainer/image/upload/v1644348588/nft/purugly_loe5wh.png')
-                                                                                center
-                                                                                center /
-                                                                                contain
-                                                                                no-repeat;
+                                                                            background: url(https://res.cloudinary.com/storagemanagementcontainer/image/upload/c_scale,w_449/v1644348522/nft/purugly_gyn7tk.png)
+                                                                            no-repeat;
+                                                                            background-size: auto;
                                                                         "
                                                                     ></div>
                                                                     <div
@@ -536,7 +555,11 @@
                                                                     class="card__text"
                                                                 >
                                                                     <h5
-                                                                        class="headline ma-0"
+                                                                        class="ma-0"
+                                                                        style="
+                                                                        font-family: disposabledroid-bb;
+                                                                        font-size: 36px
+                                                                        "
                                                                     >
                                                                         Painting
                                                                         #4
@@ -558,7 +581,7 @@
                                                                 <div
                                                                     class="card__media"
                                                                     style="
-                                                                        height: 216px;
+                                                                        height: 400px;
                                                                     "
                                                                 >
                                                                     <div
@@ -589,7 +612,11 @@
                                                                     class="card__text"
                                                                 >
                                                                     <h5
-                                                                        class="headline ma-0"
+                                                                        class="ma-0"
+                                                                        style="
+                                                                        font-family: disposabledroid-bb;
+                                                                        font-size: 36px
+                                                                        "
                                                                     >
                                                                         Painting
                                                                         #5
@@ -611,17 +638,15 @@
                                                                 <div
                                                                     class="card__media"
                                                                     style="
-                                                                        height: 216px;
+                                                                        height: 400px;
                                                                     "
                                                                 >
                                                                     <div
                                                                         class="card__media__background"
                                                                         style="
-                                                                            background: url('https://storage.googleapis.com/pcarte/images/00002880-public.png')
-                                                                                center
-                                                                                center /
-                                                                                contain
-                                                                                no-repeat;
+                                                                            background: url(https://res.cloudinary.com/storagemanagementcontainer/image/upload/c_scale,w_449/v1644348522/nft/purugly_gyn7tk.png)
+                                                                            no-repeat;
+                                                                            background-size: auto;
                                                                         "
                                                                     ></div>
                                                                     <div
@@ -654,7 +679,7 @@
                                                     >
                                                         <button
                                                             type="button"
-                                                            class="btn btn--floating btn--small theme--dark teal lighten-1"
+                                                            class="btn btn--floating btn--small theme--dark cyanBlue lighten-1"
                                                         >
                                                             <div
                                                                 class="btn__content"
@@ -667,7 +692,7 @@
                                                         </button>
                                                         <button
                                                             type="button"
-                                                            class="btn btn--floating btn--small theme--dark teal lighten-1"
+                                                            class="btn btn--floating btn--small theme--dark cyanBlue lighten-1"
                                                         >
                                                             <div
                                                                 class="btn__content"
@@ -689,7 +714,7 @@
                                                         <button
                                                             disabled="disabled"
                                                             type="button"
-                                                            class="btn btn--disabled btn--floating btn--small theme--dark teal lighten-1"
+                                                            class="btn btn--disabled btn--floating btn--small theme--dark cyanBlue lighten-1"
                                                             mt-4=""
                                                         >
                                                             <div
@@ -704,7 +729,7 @@
                                                         <button
                                                             disabled="disabled"
                                                             type="button"
-                                                            class="btn btn--disabled btn--floating btn--small theme--dark teal lighten-1"
+                                                            class="btn btn--disabled btn--floating btn--small theme--dark cyanBlue lighten-1"
                                                             mt-4=""
                                                         >
                                                             <div
@@ -774,7 +799,11 @@
                                                                     class="card__text"
                                                                 >
                                                                     <h5
-                                                                        class="headline ma-0"
+                                                                        class="ma-0"
+                                                                        style="
+                                                                        font-family: disposabledroid-bb;
+                                                                        font-size: 36px
+                                                                        "
                                                                     >
                                                                         Painting
                                                                         #9889
@@ -797,17 +826,15 @@
                                                                 <div
                                                                     class="card__media"
                                                                     style="
-                                                                        height: 216px;
+                                                                        height: 400px;
                                                                     "
                                                                 >
                                                                     <div
                                                                         class="card__media__background"
                                                                         style="
-                                                                            background: url('https://storage.googleapis.com/pcarte/images/05696064-public.png')
-                                                                                center
-                                                                                center /
-                                                                                contain
-                                                                                no-repeat;
+                                                                            background: url(https://res.cloudinary.com/storagemanagementcontainer/image/upload/c_scale,w_449/v1644348522/nft/purugly_gyn7tk.png)
+                                                                            no-repeat;
+                                                                            background-size: auto;
                                                                         "
                                                                     ></div>
                                                                     <div
@@ -828,7 +855,11 @@
                                                                     class="card__text"
                                                                 >
                                                                     <h5
-                                                                        class="headline ma-0"
+                                                                        class="ma-0"
+                                                                        style="
+                                                                        font-family: disposabledroid-bb;
+                                                                        font-size: 36px
+                                                                        "
                                                                     >
                                                                         Painting
                                                                         #9890
@@ -850,17 +881,15 @@
                                                                 <div
                                                                     class="card__media"
                                                                     style="
-                                                                        height: 216px;
+                                                                        height: 400px;
                                                                     "
                                                                 >
                                                                     <div
                                                                         class="card__media__background"
                                                                         style="
-                                                                            background: url('https://storage.googleapis.com/pcarte/images/05696640-public.png')
-                                                                                center
-                                                                                center /
-                                                                                contain
-                                                                                no-repeat;
+                                                                            background: url(https://res.cloudinary.com/storagemanagementcontainer/image/upload/c_scale,w_449/v1644348522/nft/purugly_gyn7tk.png)
+                                                                            no-repeat;
+                                                                            background-size: auto;
                                                                         "
                                                                     ></div>
                                                                     <div
@@ -881,7 +910,11 @@
                                                                     class="card__text"
                                                                 >
                                                                     <h5
-                                                                        class="headline ma-0"
+                                                                        class="ma-0"
+                                                                        style="
+                                                                        font-family: disposabledroid-bb;
+                                                                        font-size: 36px
+                                                                        "
                                                                     >
                                                                         Painting
                                                                         #9891
@@ -904,17 +937,15 @@
                                                                 <div
                                                                     class="card__media"
                                                                     style="
-                                                                        height: 216px;
+                                                                        height: 400px;
                                                                     "
                                                                 >
                                                                     <div
                                                                         class="card__media__background"
                                                                         style="
-                                                                            background: url('https://storage.googleapis.com/pcarte/images/05697216-public.png')
-                                                                                center
-                                                                                center /
-                                                                                contain
-                                                                                no-repeat;
+                                                                            background: url(https://res.cloudinary.com/storagemanagementcontainer/image/upload/c_scale,w_449/v1644348522/nft/purugly_gyn7tk.png)
+                                                                            no-repeat;
+                                                                            background-size: auto;
                                                                         "
                                                                     ></div>
                                                                     <div
@@ -935,7 +966,11 @@
                                                                     class="card__text"
                                                                 >
                                                                     <h5
-                                                                        class="headline ma-0"
+                                                                        class="ma-0"
+                                                                        style="
+                                                                        font-family: disposabledroid-bb;
+                                                                        font-size: 36px
+                                                                        "
                                                                     >
                                                                         Painting
                                                                         #9892
@@ -958,7 +993,7 @@
                                                                 <div
                                                                     class="card__media"
                                                                     style="
-                                                                        height: 216px;
+                                                                        height: 400px;
                                                                     "
                                                                 >
                                                                     <div
@@ -989,7 +1024,11 @@
                                                                     class="card__text"
                                                                 >
                                                                     <h5
-                                                                        class="headline ma-0"
+                                                                        class="ma-0"
+                                                                        style="
+                                                                        font-family: disposabledroid-bb;
+                                                                        font-size: 36px
+                                                                        "
                                                                     >
                                                                         Painting
                                                                         #9893
@@ -1012,7 +1051,7 @@
                                                                 <div
                                                                     class="card__media"
                                                                     style="
-                                                                        height: 216px;
+                                                                        height: 400px;
                                                                     "
                                                                 >
                                                                     <div
@@ -1043,7 +1082,11 @@
                                                                     class="card__text"
                                                                 >
                                                                     <h5
-                                                                        class="headline ma-0"
+                                                                        class="ma-0"
+                                                                        style="
+                                                                        font-family: disposabledroid-bb;
+                                                                        font-size: 36px
+                                                                        "
                                                                     >
                                                                         Painting
                                                                         #9894
@@ -1066,7 +1109,7 @@
                                                                 <div
                                                                     class="card__media"
                                                                     style="
-                                                                        height: 216px;
+                                                                        height: 400px;
                                                                     "
                                                                 >
                                                                     <div

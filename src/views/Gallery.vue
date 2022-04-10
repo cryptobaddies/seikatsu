@@ -37,7 +37,7 @@
                                                     <button
                                                         disabled="disabled"
                                                         type="button"
-                                                        class="btn btn--disabled btn--floating btn--small theme--dark teal lighten-1"
+                                                        class="btn btn--disabled btn--floating btn--small theme--dark cyanBlue lighten-1"
                                                     >
                                                         <div
                                                             class="btn__content"
@@ -51,7 +51,7 @@
                                                     <button
                                                         disabled="disabled"
                                                         type="button"
-                                                        class="btn btn--disabled btn--floating btn--small theme--dark teal lighten-1"
+                                                        class="btn btn--disabled btn--floating btn--small theme--dark cyanBlue lighten-1"
                                                     >
                                                         <div
                                                             class="btn__content"
@@ -74,7 +74,7 @@
                                                     </div>
                                                     <button
                                                         type="button"
-                                                        class="btn btn--floating btn--small theme--dark teal lighten-1"
+                                                        class="btn btn--floating btn--small theme--dark cyanBlue lighten-1"
                                                         mt-4=""
                                                     >
                                                         <div
@@ -88,7 +88,7 @@
                                                     </button>
                                                     <button
                                                         type="button"
-                                                        class="btn btn--floating btn--small theme--dark teal lighten-1"
+                                                        class="btn btn--floating btn--small theme--dark cyanBlue lighten-1"
                                                         mt-4=""
                                                     >
                                                         <div
@@ -477,7 +477,7 @@
                                                 >
                                                     <button
                                                         type="button"
-                                                        class="btn btn--floating btn--small theme--dark teal lighten-1"
+                                                        class="btn btn--floating btn--small theme--dark cyanBlue lighten-1"
                                                     >
                                                         <div
                                                             class="btn__content"
@@ -490,7 +490,7 @@
                                                     </button>
                                                     <button
                                                         type="button"
-                                                        class="btn btn--floating btn--small theme--dark teal lighten-1"
+                                                        class="btn btn--floating btn--small theme--dark cyanBlue lighten-1"
                                                     >
                                                         <div
                                                             class="btn__content"
@@ -512,7 +512,7 @@
                                                     <button
                                                         disabled="disabled"
                                                         type="button"
-                                                        class="btn btn--disabled btn--floating btn--small theme--dark teal lighten-1"
+                                                        class="btn btn--disabled btn--floating btn--small theme--dark cyanBlue lighten-1"
                                                         mt-4=""
                                                     >
                                                         <div
@@ -527,7 +527,7 @@
                                                     <button
                                                         disabled="disabled"
                                                         type="button"
-                                                        class="btn btn--disabled btn--floating btn--small theme--dark teal lighten-1"
+                                                        class="btn btn--disabled btn--floating btn--small theme--dark cyanBlue lighten-1"
                                                         mt-4=""
                                                     >
                                                         <div
@@ -908,9 +908,9 @@
                 ></span>
             </main>
             <footer class="footer" style="height: auto">
-                <div class="layout row wrap justify-center teal lighten-1">
+                <div class="layout row wrap justify-center cyanBlue lighten-1">
                     <div
-                        class="teal lighten-1 text-xs-center card card--flat card--tile"
+                        class="cyanBlue lighten-1 text-xs-center card card--flat card--tile"
                         style="height: auto"
                     >
                         <div class="card__text">

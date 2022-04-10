@@ -1,8 +1,8 @@
 <template>
     <footer class="footer" style="height: auto">
-        <div class="layout row wrap justify-center teal lighten-1">
+        <div class="layout row wrap justify-center cyanBlue lighten-1">
                         <div
-                            class="teal lighten-1 text-xs-center card card--flat card--tile"
+                            class="cyanBlue lighten-1 text-xs-center card card--flat card--tile"
                             style="height: auto"
                         >
                             <div class="card__text">
