@@ -17,18 +17,6 @@
                                             style="font-size: 24px"
                                         ></i></div
                                 ></a>
-                                <a
-                                    href="https://discord.gg/kwbRuwf"
-                                    target="_blank"
-                                    class="mx-3 white--text btn btn--icon"
-                                    style="position: relative"
-                                    ><div class="btn__content">
-                                        <i
-                                            aria-hidden="true"
-                                            class="icon theme--dark fab fa-discord"
-                                            style="font-size: 24px"
-                                        ></i></div
-                                ></a>
                                 <span
                                     ><a
                                         href="mailto:hello@CryptoArte.io"

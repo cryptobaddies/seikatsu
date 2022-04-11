@@ -4,6 +4,7 @@
             <span>
                 <div class="parallax" dark="">
                             <div class="parallax__image-container">
+                                
                                 <img
                                     src="https://res.cloudinary.com/storagemanagementcontainer/image/upload/c_scale,h_500,w_1500/v1649549249/nft/animeskatergirl_hgv1a4.png"
                                     class="parallax__image"
