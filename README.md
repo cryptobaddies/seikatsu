@@ -1,9 +1,7 @@
 #cryptbaddiesnftwebsite
-View the website [here](https://cryptobaddiesnfts.web.app/)
+View our website 
+[here](https://cryptobaddiesnfts.web.app/)
 or view it [here](https://cryptobaddiesnfts.firebaseapp.com/).
-
-[]: # Language: markdown
-[]: # Path: README.md
 
 Website Design: 
 
