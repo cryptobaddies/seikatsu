@@ -1,5 +1,13 @@
 #cryptbaddiesnftwebsite
-https://cryptobaddiesnfts.web.app/
+View the website [here](https://cryptobaddiesnfts.web.app/)
+or view it [here](https://cryptobaddiesnfts.firebaseapp.com/).
+
+[]: # Language: markdown
+[]: # Path: README.md
+
+Website Design: 
+
+![alt text](https://res.cloudinary.com/storagemanagementcontainer/image/upload/v1649714999/nft/seikatsupage_wolqtv.png)
 ## Purpose
 
 This is a start-up kit for a Firebase web project, which uses Vue.js.
