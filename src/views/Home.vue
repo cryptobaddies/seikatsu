@@ -256,9 +256,10 @@
                                                                 class="btn__content"
                                                             >
                                                                 <i
-                                                                    aria-hidden="true"
-                                                                    class="icon theme--dark fas fa-angle-right"
-                                                                ></i>
+                                                            aria-hidden="true"
+                                                                class="icon theme--dark fas fa-angle-right material-icons"
+                                                                style="display:flex"
+                                                            >keyboard_arrow_right</i>
                                                             </div>
                                                         </button>
                                                         <button
@@ -269,10 +270,11 @@
                                                             <div
                                                                 class="btn__content"
                                                             >
-                                                                <i
-                                                                    aria-hidden="true"
-                                                                    class="icon theme--dark fas fa-angle-double-right"
-                                                                ></i>
+                                                             <i
+                                                            aria-hidden="true"
+                                                                class="icon theme--dark fas fa-angle-right material-icons"
+                                                                style="display:flex"
+                                                            >keyboard_double_arrow_right</i>
                                                             </div>
                                                         </button>
                                                     </div>
@@ -721,9 +723,10 @@
                                                                 class="btn__content"
                                                             >
                                                                 <i
-                                                                    aria-hidden="true"
-                                                                    class="icon theme--dark fas fa-angle-right"
-                                                                ></i>
+                                                            aria-hidden="true"
+                                                                class="icon theme--dark fas fa-angle-right material-icons"
+                                                                style="display:flex"
+                                                            >keyboard_arrow_right</i>
                                                             </div>
                                                         </button>
                                                         <button
@@ -735,10 +738,11 @@
                                                             <div
                                                                 class="btn__content"
                                                             >
-                                                                <i
-                                                                    aria-hidden="true"
-                                                                    class="icon theme--dark fas fa-angle-double-right"
-                                                                ></i>
+                                                               <i
+                                                            aria-hidden="true"
+                                                                class="icon theme--dark fas fa-angle-right material-icons"
+                                                                style="display:flex"
+                                                            >keyboard_double_arrow_right</i>
                                                             </div>
                                                         </button>
                                                     </div>
