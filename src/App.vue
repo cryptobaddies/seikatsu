@@ -13731,4 +13731,7 @@ table.table tfoot tr td {
         padding: 10px 16px;
     }
 }
+.title-header{
+  font-size: 64px;
+}
 </style>

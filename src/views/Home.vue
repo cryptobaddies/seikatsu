@@ -25,14 +25,15 @@
                                                     <div
                                                         class="flex text-xs-center xs12"
                                                     >
-                                                        <h1 class="ma-3" style="color: white">
-                                                            Seikatsu— an NFT
+                                                        <h1 class="ma-3 title-header" style="color: white">
+                                                            Seikatsu
+                                                        </h1>
+                                                            <p>an NFT
                                                             art collection that
                                                             tells the history of
                                                             Ethereum.
                                                             <br />
-                                                            ~ Established 2022 ~
-                                                        </h1>
+                                                            ~ Established 2022 ~</p>
                                                     </div>
                                                 </div>
                                                 <div

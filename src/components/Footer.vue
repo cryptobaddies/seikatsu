@@ -1,8 +1,8 @@
 <template>
     <footer class="footer" style="height: auto">
-        <div class="layout row wrap justify-center cyanBlue lighten-1">
+        <div class="layout row wrap justify-center cyan-blue-background  lighten-1">
                         <div
-                            class="cyanBlue lighten-1 text-xs-center card card--flat card--tile"
+                            class="cyan-blue-background  lighten-1 text-xs-center card card--flat card--tile"
                             style="height: auto"
                         >
                             <div class="card__text">
@@ -32,13 +32,13 @@
                             </div>
                             <!---->
                             <div class="card__text white--text pt-0">
-                                ©2021 — <strong>CryptoArte, LLC</strong> -
+                                ©2021 — <strong>Seikatsu, LLC</strong> -
                                 <a href="/terms" class="white--text pt-0"
                                     >Terms &amp; Conditions</a
                                 >
                             </div>
-                                <p>Copyright &copy; 2021</p>
-                            <router-link to="/about">About</router-link>
+                                <p style="color:white">Copyright &copy; 2021</p>
+                            <router-link to="/about" style="color:white">About</router-link>
                         </div>
             </div>
     </footer>
