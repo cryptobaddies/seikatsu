@@ -1128,6 +1128,7 @@
                                 </div>
                             </div></div
                     ></span>
+
                 </main>
 
                 
@@ -1156,10 +1157,15 @@
 
 <script>
 /* eslint-disable vue/no-unused-components */
+import VueMetamask from 'vue-metamask';
 export default {
     name: "Home",
+    components: {
+            VueMetamask,
+        },
     data() {
         return {
+            msg: "This is demo net work",
             info: [
                 { id: "0", text: "John" },
                 { id: "1", text: "Mary" },
@@ -1173,11 +1179,15 @@ export default {
             navigator.userAgent);
             */
         },
+        onComplete(data){
+                console.log('data:', data);
+        }
     },
     mounted() {
       let recaptchaScript = document.createElement('script')
       recaptchaScript.setAttribute('src', 'https://www.google.com/recaptcha/api.js')
       document.head.appendChild(recaptchaScript)
+
     }
 };
 </script>

@@ -217,8 +217,17 @@
                             class="icon icon--right theme--dark material-icons"
                             >help_outline</i
                         ></v-btn
+                        
                     ></router-link
                 >
+           <div id="demo">
+
+        <!--close init connect-->
+        <vue-metamask ref="metamask" :initConnect="false"></vue-metamask>
+        
+        <!--click button call Init-->
+        <v-btn v-on:click="connectWallet">Connect Wallet</v-btn>
+    </div>
             </v-toolbar-items>
         </v-toolbar>
 
@@ -229,6 +238,7 @@
 </template>
 
 <script>
+ import VueMetamask from 'vue-metamask';
 import firebase from "firebase/app";
 import "firebase/auth";
 import "firebase/firestore";
@@ -245,6 +255,9 @@ export default {
             navBar: false,
         };
     },
+    components: {
+            VueMetamask,
+        },
     created() {
         firebase.initializeApp(firebaseConfig);
 
@@ -282,6 +295,9 @@ export default {
         updateNaviBar: function () {
             this.navBar = !this.navBar;
         },
+              connectWallet() {
+                this.$refs.metamask.init();
+            }
     },
 };
 </script>
