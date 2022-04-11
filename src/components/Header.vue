@@ -10,68 +10,86 @@
             data-app="true"
         >
             <v-list dense class="pt-0">
-  <router-link to="/" class="btn--active btn btn--flat btn--router">
-          <v-list-tile>
-            <v-list-tile-action>
-              <v-icon>dashboard</v-icon>
-            </v-list-tile-action>
-            <v-list-tile-content>
-              <v-list-tile-title>Home</v-list-tile-title>  
-            </v-list-tile-content>
-          </v-list-tile>
-        </router-link>
-          <router-link to="/Gallery" class="btn--active btn btn--flat btn--router">
-          <v-list-tile>
-            <v-list-tile-action>
-              <v-icon>dashboard</v-icon>
-            </v-list-tile-action>
-            <v-list-tile-content>
-              <v-list-tile-title>Gallery</v-list-tile-title>
-            </v-list-tile-content>
-          </v-list-tile>
-        </router-link>
-        <router-link to="/Miners"  class="btn--active btn btn--flat btn--router">
-          <v-list-tile>
-            <v-list-tile-action>
-              <v-icon>dashboard</v-icon>
-            </v-list-tile-action>
-            <v-list-tile-content>
-              <v-list-tile-title>Miners</v-list-tile-title>
-            </v-list-tile-content>
-          </v-list-tile>
-        </router-link>
-        <router-link to="/ConnectWallet" class="btn--active btn btn--flat btn--router">
-          <v-list-tile>
-            <v-list-tile-action>
-              <v-icon>dashboard</v-icon>
-            </v-list-tile-action>
-            <v-list-tile-content>
-              <v-list-tile-title>Wallet</v-list-tile-title>
-            </v-list-tile-content>
-          </v-list-tile>
-        </router-link>
-        <router-link to="/About" class="btn--active btn btn--flat btn--router">
-          <v-list-tile>
-            <v-list-tile-action>
-              <v-icon>dashboard</v-icon>
-            </v-list-tile-action>
-            <v-list-tile-content>
-              <v-list-tile-title>About</v-list-tile-title>
-            </v-list-tile-content>
-          </v-list-tile>
-        </router-link>
+                <router-link
+                    to="/"
+                    class="btn--active btn btn--flat btn--router"
+                >
+                    <v-list-tile>
+                        <v-list-tile-action>
+                            <v-icon>dashboard</v-icon>
+                        </v-list-tile-action>
+                        <v-list-tile-content>
+                            <v-list-tile-title>Home</v-list-tile-title>
+                        </v-list-tile-content>
+                    </v-list-tile>
+                </router-link>
+                <router-link
+                    to="/Gallery"
+                    class="btn--active btn btn--flat btn--router"
+                >
+                    <v-list-tile>
+                        <v-list-tile-action>
+                            <v-icon>dashboard</v-icon>
+                        </v-list-tile-action>
+                        <v-list-tile-content>
+                            <v-list-tile-title>Gallery</v-list-tile-title>
+                        </v-list-tile-content>
+                    </v-list-tile>
+                </router-link>
+                <router-link
+                    to="/Miners"
+                    class="btn--active btn btn--flat btn--router"
+                >
+                    <v-list-tile>
+                        <v-list-tile-action>
+                            <v-icon>dashboard</v-icon>
+                        </v-list-tile-action>
+                        <v-list-tile-content>
+                            <v-list-tile-title>Miners</v-list-tile-title>
+                        </v-list-tile-content>
+                    </v-list-tile>
+                </router-link>
+                <router-link
+                    to="/ConnectWallet"
+                    class="btn--active btn btn--flat btn--router"
+                >
+                    <v-list-tile>
+                        <v-list-tile-action>
+                            <v-icon>dashboard</v-icon>
+                        </v-list-tile-action>
+                        <v-list-tile-content>
+                            <v-list-tile-title>Wallet</v-list-tile-title>
+                        </v-list-tile-content>
+                    </v-list-tile>
+                </router-link>
+                <router-link
+                    to="/About"
+                    class="btn--active btn btn--flat btn--router"
+                >
+                    <v-list-tile>
+                        <v-list-tile-action>
+                            <v-icon>dashboard</v-icon>
+                        </v-list-tile-action>
+                        <v-list-tile-content>
+                            <v-list-tile-title>About</v-list-tile-title>
+                        </v-list-tile-content>
+                    </v-list-tile>
+                </router-link>
 
-        <router-link to="/Signin" v-if="!logined"  class="btn--active btn btn--flat btn--router">
-          <v-list-tile>
-            <v-list-tile-action>
-              <v-icon>dashboard</v-icon>
-            </v-list-tile-action>
-            <v-list-tile-content>
-              <v-list-tile-title>Signin</v-list-tile-title>
-            </v-list-tile-content>
-          </v-list-tile>
-        </router-link>
-
+                <router-link
+                    to="/Signin"
+                    v-if="!logined"
+                    class="btn--active btn btn--flat btn--router"
+                >
+                    <v-list-tile>
+                        <v-list-tile-action>
+                            <v-icon>dashboard</v-icon>
+                        </v-list-tile-action>
+                        <v-list-tile-content>
+                            <v-list-tile-title>Signin</v-list-tile-title>
+                        </v-list-tile-content>
+                    </v-list-tile>
+                </router-link>
             </v-list>
         </v-navigation-drawer>
 
@@ -217,17 +235,18 @@
                             class="icon icon--right theme--dark material-icons"
                             >help_outline</i
                         ></v-btn
-                        
                     ></router-link
                 >
-           <div id="demo">
+                <div id="demo">
+                    <!--close init connect-->
+                    <vue-metamask
+                        ref="metamask"
+                        :initConnect="false"
+                    ></vue-metamask>
 
-        <!--close init connect-->
-        <vue-metamask ref="metamask" :initConnect="false"></vue-metamask>
-        
-        <!--click button call Init-->
-        <v-btn v-on:click="connectWallet">Connect Wallet</v-btn>
-    </div>
+                    <!--click button call Init-->
+                    <v-btn v-on:click="connectWallet">Connect Wallet</v-btn>
+                </div>
             </v-toolbar-items>
         </v-toolbar>
 
@@ -238,7 +257,7 @@
 </template>
 
 <script>
- import VueMetamask from 'vue-metamask';
+import VueMetamask from "vue-metamask";
 import firebase from "firebase/app";
 import "firebase/auth";
 import "firebase/firestore";
@@ -256,8 +275,8 @@ export default {
         };
     },
     components: {
-            VueMetamask,
-        },
+        VueMetamask,
+    },
     created() {
         firebase.initializeApp(firebaseConfig);
 
@@ -295,9 +314,9 @@ export default {
         updateNaviBar: function () {
             this.navBar = !this.navBar;
         },
-              connectWallet() {
-                this.$refs.metamask.init();
-            }
+        connectWallet() {
+            this.$refs.metamask.init();
+        },
     },
 };
 </script>
