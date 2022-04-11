@@ -532,7 +532,7 @@
                                                                     <div
                                                                         class="card__media__background"
                                                                         style="
-                                                                            background: url(https://res.cloudinary.com/storagemanagementcontainer/image/upload/c_scale,w_449/v1644348522/nft/purugly_gyn7tk.png)
+                                                                            background: url(https://res.cloudinary.com/storagemanagementcontainer/image/upload/c_scale,w_463/v1649695570/nft/skater4_uaj2c9.png)
                                                                             no-repeat;
                                                                             background-size: auto;
                                                                         "
@@ -587,11 +587,9 @@
                                                                     <div
                                                                         class="card__media__background"
                                                                         style="
-                                                                            background: url('https://storage.googleapis.com/pcarte/images/00002304-public.png')
-                                                                                center
-                                                                                center /
-                                                                                contain
-                                                                                no-repeat;
+                                                                            background: url(https://res.cloudinary.com/storagemanagementcontainer/image/upload/c_scale,w_466/v1649696036/nft/skater9_ktc4jh.png)
+                                                                            no-repeat;
+                                                                            background-size: auto;
                                                                         "
                                                                     ></div>
                                                                     <div
@@ -644,7 +642,7 @@
                                                                     <div
                                                                         class="card__media__background"
                                                                         style="
-                                                                            background: url(https://res.cloudinary.com/storagemanagementcontainer/image/upload/c_scale,w_449/v1644348522/nft/purugly_gyn7tk.png)
+                                                                            background: url(https://res.cloudinary.com/storagemanagementcontainer/image/upload/c_scale,w_442/v1649695298/nft/skater7_y4cctm.png)
                                                                             no-repeat;
                                                                             background-size: auto;
                                                                         "
@@ -832,7 +830,7 @@
                                                                     <div
                                                                         class="card__media__background"
                                                                         style="
-                                                                            background: url(https://res.cloudinary.com/storagemanagementcontainer/image/upload/c_scale,w_449/v1644348522/nft/purugly_gyn7tk.png)
+                                                                            background: url(https://res.cloudinary.com/storagemanagementcontainer/image/upload/c_scale,w_477/v1649695301/nft/skater5.ong_oflldi.png)
                                                                             no-repeat;
                                                                             background-size: auto;
                                                                         "
@@ -887,7 +885,7 @@
                                                                     <div
                                                                         class="card__media__background"
                                                                         style="
-                                                                            background: url(https://res.cloudinary.com/storagemanagementcontainer/image/upload/c_scale,w_449/v1644348522/nft/purugly_gyn7tk.png)
+                                                                            background: url(https://res.cloudinary.com/storagemanagementcontainer/image/upload/c_scale,w_488/v1649695577/nft/skater8_rhgrc2.png
                                                                             no-repeat;
                                                                             background-size: auto;
                                                                         "
@@ -943,7 +941,7 @@
                                                                     <div
                                                                         class="card__media__background"
                                                                         style="
-                                                                            background: url(https://res.cloudinary.com/storagemanagementcontainer/image/upload/c_scale,w_449/v1644348522/nft/purugly_gyn7tk.png)
+                                                                            background: url(https://res.cloudinary.com/storagemanagementcontainer/image/upload/c_scale,w_465/v1649695300/nft/skater6_e4vrpf.png)
                                                                             no-repeat;
                                                                             background-size: auto;
                                                                         "
@@ -999,11 +997,9 @@
                                                                     <div
                                                                         class="card__media__background"
                                                                         style="
-                                                                            background: url('https://storage.googleapis.com/pcarte/images/05697792-public.png')
-                                                                                center
-                                                                                center /
-                                                                                contain
-                                                                                no-repeat;
+                                                                            background: url(https://res.cloudinary.com/storagemanagementcontainer/image/upload/c_scale,w_491/v1649696035/nft/skater10_ztif3e.png
+                                                                            no-repeat;
+                                                                            background-size: auto;
                                                                         "
                                                                     ></div>
                                                                     <div
@@ -1057,11 +1053,9 @@
                                                                     <div
                                                                         class="card__media__background"
                                                                         style="
-                                                                            background: url('https://storage.googleapis.com/pcarte/images/05698368-public.png')
-                                                                                center
-                                                                                center /
-                                                                                contain
-                                                                                no-repeat;
+                                                                            background: url(https://res.cloudinary.com/storagemanagementcontainer/image/upload/c_scale,w_445/v1649696032/nft/skater11_wriu7v.png)
+                                                                            no-repeat;
+                                                                            background-size: auto;
                                                                         "
                                                                     ></div>
                                                                     <div
@@ -1115,11 +1109,9 @@
                                                                     <div
                                                                         class="card__media__background"
                                                                         style="
-                                                                            background: url('https://storage.googleapis.com/pcarte/images/05698944-public.png')
-                                                                                center
-                                                                                center /
-                                                                                contain
-                                                                                no-repeat;
+                                                                            background: url(https://res.cloudinary.com/storagemanagementcontainer/image/upload/c_scale,w_446/v1649696033/nft/skater12_vbgpx6.png)
+                                                                            no-repeat;
+                                                                            background-size: auto;
                                                                         "
                                                                     ></div>
                                                                     <div
